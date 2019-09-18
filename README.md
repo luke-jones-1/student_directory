@@ -4,6 +4,6 @@ The students directory script allows you to manage the list of students at Villa
 
 ## How to use. ##
 
-'''shell
+```shell
 ruby directory.rb
-'''
+```
